@@ -1,0 +1,2 @@
+1.找到tomcat配置文件找到servre.xml文件，打开找到<Connector port="8080" ....../>等代码，把端口号改成要修改的端口号即可。
+2.Catalina是Tomcat的servlet容器，Coyote是Tomcat的连接器组件。
